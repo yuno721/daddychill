@@ -72,7 +72,7 @@ const getOpenAiResponse = () => {
                 </div>
             </div>
             <div className='p'>
-              <p>Daddychill is an AI Rant Translator app that helps users communicate their thoughts and emotions in a more neutral and 
+              <p>//Daddychill is an AI Rant Translator app that helps users communicate their thoughts and emotions in a more neutral and 
                 professional manner. Using cutting-edge artificial intelligence technology, daddychill 
                 analyzes angry or frustrated statements and rephrases them into a calmer, clearer tone.
                 With daddychill, 
